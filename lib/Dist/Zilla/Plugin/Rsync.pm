@@ -2,6 +2,10 @@ package Dist::Zilla::Plugin::Rsync;
 
 =encoding utf8
 
+=head1 NAME
+
+Dist::Zilla::Plugin::Rsync - upload your distribution tarball using rsync
+
 =head1 SYNOPSIS
 
 Upload your distribution tarball using C<rsync>:
